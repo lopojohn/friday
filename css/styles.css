@@ -1,0 +1,24 @@
+.row{
+background-image: url(logoBig.jpg);
+background-repeat: no-repeat
+;margin-bottom: auto;border-bottom: none:}
+.img{align-content: center;
+  margin-bottom: auto;width:25%;
+}
+.left{float: left;
+border-bottom: none;margin-bottom: auto;border-bottom: none;}
+.right{float: right;margin-bottom: auto;border-bottom: none;}
+.love{text-align: right;margin-bottom: auto;border-bottom: none;}
+.button{
+  font-size: 30px
+  ;padding: inherit;
+
+background-color: brown;
+display: inline-block;}
+.logoBig{display: block;margin-left: auto;margin-right: auto;
+}
+.h2{text-align: center;}
+.fade:hover{opacity:0.3;
+transition: .5s ease;
+backface-visibility: hidden;
+}
